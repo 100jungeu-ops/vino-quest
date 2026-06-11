@@ -1,0 +1,14 @@
+{
+  "name": "Vino Quest",
+  "short_name": "Vino Quest",
+  "description": "부부 소믈리에의 와인 테이스팅 & 마리아주 게임",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F3E8",
+  "theme_color": "#F8F3E8",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
